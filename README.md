@@ -1,2 +1,5 @@
 # markdown
-![Görsel Açıklaması](https://cdn.discordapp.com/attachments/1512548807793967236/1513480756075434035/image.png?ex=6a27e24b&is=6a2690cb&hm=19bcb983eae8debc009064dbc14f7b755bc22fee9f99b04f3232d703e374dd72)
+![1](https://cdn.discordapp.com/attachments/1512548807793967236/1513480756075434035/image.png?ex=6a27e24b&is=6a2690cb&hm=19bcb983eae8debc009064dbc14f7b755bc22fee9f99b04f3232d703e374dd72)
+![2](https://cdn.discordapp.com/attachments/1512548807793967236/1513480883884134503/image.png?ex=6a27e269&is=6a2690e9&hm=91b5aab6883feea11ea93a7bfecfd2381563840589e5a449690d5dcec3b02d97)
+![3](https://cdn.discordapp.com/attachments/1512548807793967236/1513480985730220233/image.png?ex=6a27e282&is=6a269102&hm=94c9fd9f7ae2b4eda88c4ef5bd3bae5527c051cc93a4dd5450096e24c5757a1f)
+
