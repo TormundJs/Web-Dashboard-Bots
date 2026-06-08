@@ -1,1 +1,2 @@
-# Web-Dashboard-Bots
+# markdown
+![Giriş]([gorselin_yolu.png](https://discord.com/channels/1512544397517127871/1512548807793967236/1513480756473626736))
