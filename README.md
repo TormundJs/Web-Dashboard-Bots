@@ -6,7 +6,10 @@ Erkek kız rollerini Sunucuda male aragorn erkek gibi roller varsa bunları erke
 Sadece 1 Kere Eğitmeniz yeterlidir bot ileride doğuracak hataları kendisi otomatik olarak fixler ve kendini yeniden başlatır 
 Fotoğraflardaki Kutucukları tamamen kendisi doldurmuştur 
 Sunucudaki Fotoğraf Mesaj Log gibi Şeyleri tamamen arayıp Günlük Bilgi döner Şüpheli Kişileri Ayrı bir log tutar.
-Gelişimi Tamamen bittiğinde Sizinle Paylaşacağım 
+Gelişimi Tamamen bittiğinde Sizinle Paylaşacağım
+
+Yapay Zeka İle sadece sese girip isim yaş verdiğiniz zaman Erkek Veya kız olduğunuzu anlayıp otomatik kayıt eder Farklı farklı isimlerle Kayıt Yapmaz.
+
 # markdown
 ![1](https://cdn.discordapp.com/attachments/1512548807793967236/1513480756075434035/image.png?ex=6a27e24b&is=6a2690cb&hm=19bcb983eae8debc009064dbc14f7b755bc22fee9f99b04f3232d703e374dd72)
 ![2](https://cdn.discordapp.com/attachments/1512548807793967236/1513480883884134503/image.png?ex=6a27e269&is=6a2690e9&hm=91b5aab6883feea11ea93a7bfecfd2381563840589e5a449690d5dcec3b02d97)
@@ -18,7 +21,7 @@ Gelişimi Tamamen bittiğinde Sizinle Paylaşacağım
 ![8](https://cdn.discordapp.com/attachments/1512548807793967236/1513481969831252008/image.png?ex=6a27e36c&is=6a2691ec&hm=c3691cf28bef0a2ab5c6ea90689b5bbad89f99781923af6dc1136ec933a5d003)
 ![9](https://cdn.discordapp.com/attachments/1512548807793967236/1513482796805394482/image.png?ex=6a27e431&is=6a2692b1&hm=0bc2d4744b5f1d85234b372e75c9fff98eed2e646c07eb179aa1777b88b6f0b7)
 ![10](https://cdn.discordapp.com/attachments/1512548807793967236/1513482904930353274/image.png?ex=6a27e44b&is=6a2692cb&hm=238af87e8f107a74612321393f2b205c99725668c87087f526bba228432e6b99)
-
+![11](https://cdn.discordapp.com/attachments/1512548766744449155/1514162747019886642/image.png?ex=6a2a5d72&is=6a290bf2&hm=72b46a0ace007ce27dad17d59b9d06c4959f58baffe2d467284242ee47e50585)
 
 
 
